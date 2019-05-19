@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "681096298747-vj3sl8i3q2jvolfqqq70her7hhk2jjmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_control_domotico",
+            "certificate_hash": "fb872312f02c03812fb69d6a85133cca720b4640"
+          }
+        },
+        {
           "client_id": "681096298747-srm6mgglp3ddugvhfp2rqr41gp6phrgm.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
